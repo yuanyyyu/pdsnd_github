@@ -19,7 +19,7 @@ This project analyzes bikeshare data from three major cities to understand usage
 - Libraries: pandas, numpy, datetime
 
 ### Instructions
-1. Clone the repository: `git clone https://github.com/yourusername/pdsnd_github.git`
+1. Clone the repository: `git clone https://github.com/yourusername/pdsnd_github.git` from Udacity master hub
 2. Run `bikeshare.py` using Python to interact with the bikeshare data.
 3. Follow the on-screen prompts to filter the data and view results.
 
